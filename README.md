@@ -1,22 +1,26 @@
 # Hello there! I'm Harini
 About me
 =
-Hai there! I'm a third-year computer science & Engineering student at Syed Ammal Engineering college,driven by a strong passion for coding and problem-solving.
+Hai there! I'm a final-year computer science & Engineering student at Syed Ammal Engineering college,driven by a strong passion for coding and problem-solving.
 This README serves as a platform to highlight my journey, skills, and aspirations.
 
 # Skills and Interests:
 
 **Programming languages:**
    => Java 
-   => MYSQL
+   => SQL
    => Html, css, Javascript
 **Framework:**
-   =>React
+   =>React.js
+   =>Epress.js
 **Developer Tools:**
    =>Git/GitHub
    =>vscode
    =>NetBeans IDE
-
+**Backend Technologies:**
+   =>JDBC
+   =>Servlets 
+   =>Node.js
 **Interests:**
   =>Participated in Hackathon
   =>participated in intercollege Events
