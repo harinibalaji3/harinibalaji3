@@ -27,6 +27,23 @@ This README serves as a platform to highlight my journey, skills, and aspiration
   =>Problem-Solving Skills
   =>Communication Skils
 
+**Experience**
+
+ **React Intern, MarqWon Dynamics Pvt Ltd**   August 2025- present
+ • Developed a Supply Chain Management web application using React.js, Node.js (Express), and MySQL.
+ • Designed and implemented a purchase module that enables users to buy products, manage delivery addresses,
+ process payments, and display order summaries.
+ • Built RESTful APIs for seamless data flow between manufacturers, wholesalers, distributors, and retailers,
+ ensuring efficient order tracking across the supply chain.
+ • Integrated database models to store and retrieve order, payment, and delivery details securely..
+
+**Java Full Stack Development Intern,MarqWon Dynamics Pvt Ltd**     July 2025- August 2025  [project Link](https://github.com/harinibalaji3/Jewel-Vault.git)
+ • Designed and developed Jewel Vault, a web application for gold savings and online jewelry shopping.
+ • Implemented smart saving plans allowing users to save money online and redeem it as gold.
+ • Enabled users to browse jewelry designs (bangles, necklaces, rings) and add items to a wishlist.
+ • Built using Java Servlets, JDBC, and JSP for backend processing, database connectivity, and dynamic UI
+ rendering.
+
 **Projects**
 
 **Library Management System**
