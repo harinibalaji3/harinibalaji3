@@ -29,7 +29,7 @@ This README serves as a platform to highlight my journey, skills, and aspiration
 
 **Experience**
 
- **React Intern, MarqWon Dynamics Pvt Ltd**   August 2025- present
+ **React Intern, MarqWon Dynamics Pvt Ltd**   August 2025- February 2026
  • Developed a Supply Chain Management web application using React.js, Node.js (Express), and MySQL.
  • Designed and implemented a purchase module that enables users to buy products, manage delivery addresses,
  process payments, and display order summaries.
@@ -45,19 +45,29 @@ This README serves as a platform to highlight my journey, skills, and aspiration
  rendering.
 
 **Projects**
+**Global Seafood Supply Chain Management System  Project Link
+• Architected a full-stack web platform connecting all supply chain stakeholders — suppliers,wholesalers,
+distributors, and retailers — under a unified system.
+• Integrated IoT-based real-time monitoring and AI-driven analytics using CSV datasets to enable proactive
+inventory control and demand forecasting.
+• Enhanced end-to-end transparency and slashed manual monitoring overhead, directly contributing to reduced
+seafood wastage.
+• Tech Stack: React.js, Node.js, Express.js, MySQL
 
 **Library Management System**
 A simple and efficient Library Management System built using Java and MySQL. This system allows users to manage books, track borrowings, and maintain records of library activities.
+Tech Stack:Java, MySQL
 [Projet Link](https://github.com/harinibalaji3/librarymanagements)
 
 **Gamehub**
 GameHub - Enjoy classic games like Tic-Tac-Toe and Snake with a streamlined main menu, quick back options, and smooth navigation for ultimate convenience.
+• Tech Stack: Java Swing
 [Project Link](https://github.com/harinibalaji3/Gamehub)
 
 **weatherapp**
 Build a weather forecasting web application using React that allows users to search for weather information based on their city name.
 [project Link](https://github.com/harinibalaji3/weatherapp.git)
-
+Tech Stack:React,Openweathermap API
 **Aptitude**
 Build an interactive aptitude test web application using HTML, CSS, and JavaScript. The application will display a set of aptitude questions  and allow users to answer them. Upon submission, the app will evaluate the answers and display the user's score.
 [Project Link](https://github.com/harinibalaji3/Aptitude.git)
