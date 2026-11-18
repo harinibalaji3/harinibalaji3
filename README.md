@@ -1,7 +1,7 @@
 # Hello there! I'm Harini
 About me
 =
-Hai there! I'm a final-year computer science & Engineering student at Syed Ammal Engineering college,driven by a strong passion for coding and problem-solving.
+Hai there! I'm a recent computer science and Engineering graduate student from Syed Ammal Engineering college,driven by a strong passion for coding and problem-solving.
 This README serves as a platform to highlight my journey, skills, and aspirations.
 
 # Skills and Interests:
